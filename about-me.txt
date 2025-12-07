@@ -1,0 +1,3 @@
+name: roham
+favorite programming language: python
+reason for learning git: git is essential in the programming world for some reasons. for instance git is a collaborative platform which tons of programmers could work together and build a unique project.
